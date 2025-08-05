@@ -1,4 +1,4 @@
-# Tesla Data Analysis
+# Tesla Stock Price Analysis
 
 This project performs a comprehensive data analysis on Tesla's stock performance and related metrics.
 
@@ -9,10 +9,7 @@ This project performs a comprehensive data analysis on Tesla's stock performance
 - [Methodology](#methodology)
 - [Analysis and Visualizations](#analysis-and-visualizations)
 - [Key Findings](#key-findings)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -54,3 +51,6 @@ This section will contain descriptions of the specific analyses performed and th
 ## Key Findings
 
 This section will be populated with the main insights and conclusions drawn from the analysis. Examples might include:
+
+## Conclusion
+This project aims to provide a comprehensive analysis of Tesla's stock data, covering historical prices, trading volumes. The analysis will be conducted using a typical data science workflow, including data collection, cleaning, exploratory data analysis, feature engineering, statistical analysis, and visualization. The key findings will be presented in a clear and concise manner, highlighting trends, patterns, and insights.
